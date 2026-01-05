@@ -1,7 +1,7 @@
 const moment = require("moment-timezone");
 
 const config = {
-    phone_number_bot: '628988219165',
+    phone_number_bot: '6289601671818',
     owner_number: '6281227978977',
     name_bot: 'XenoviaBot',
     name_owner: 'Xenovia',
