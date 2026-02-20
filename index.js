@@ -41,7 +41,7 @@ async function connectToWhatsApp() {
         logger,
         printQRInTerminal: false,
         auth: state,
-        browser: ["Ubuntu", "Chrome", "24.0.04"],
+        browser: ["Ubuntu", "Chrome", "22.22.0"],
     });
 
     global.sock = sock;
